@@ -1,0 +1,16 @@
+
+#DB : Database is the collection of data of real world
+Object (entity) or comprise with the information of 
+Real world objects.
+
+#Types of Databases : 
+• Relational database management system
+• Network database management system 
+• heirarchichal database management system 
+• object oriented database management system 
+• NoSql or non-relational database management system 
+
+#RDBMS is Relational database management system
+in which the data is interconnected to each other
+on which we do operations like update, display, insert,
+Delete and Describe.
